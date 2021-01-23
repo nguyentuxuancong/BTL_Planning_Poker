@@ -1,0 +1,22 @@
+﻿<Window x:Class="Bayesian_Task_Value.ResultDlg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bayesian_Task_Value"
+        mc:Ignorable="d"
+        Title="Result View" Height="450" Width="auto">
+    <Grid>
+        <ListView HorizontalAlignment="Left" Height="420" Margin="0,0,0,-1" VerticalAlignment="Top" Width="auto" Name="lvResult">
+            <ListView.View x:Uid="listView">
+                <GridView>
+                    <GridViewColumn Header="Id" Width="30" DisplayMemberBinding="{Binding id}"/>
+                    <GridViewColumn Header="Name" Width="auto" DisplayMemberBinding="{Binding name}"/>
+                    <GridViewColumn Header="Low" Width="100" DisplayMemberBinding="{Binding low }"/>
+                    <GridViewColumn Header="High" Width="100" DisplayMemberBinding="{Binding high}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

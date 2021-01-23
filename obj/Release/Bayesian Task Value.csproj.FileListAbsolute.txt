@@ -1,0 +1,40 @@
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\Bayesian Task Value.exe.config
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\Bayesian Task Value.exe
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\Bayesian Task Value.pdb
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Analysis.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Data.Discovery.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Data.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Data.Sampling.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Inference.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Learning.Parameters.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Learning.Structure.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Optimization.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Statistics.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\Newtonsoft.Json.dll
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Analysis.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Data.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Data.Discovery.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Data.Sampling.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Inference.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Learning.Parameters.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Learning.Structure.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Optimization.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\BayesServer.Statistics.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\bin\Release\Newtonsoft.Json.xml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value.csprojAssemblyReference.cache
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\MainWindow.g.cs
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\ResultDlg.g.cs
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\App.g.cs
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value_MarkupCompile.cache
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value_MarkupCompile.lref
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\MainWindow.baml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\ResultDlg.baml
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value.g.resources
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian_Task_Value.Properties.Resources.resources
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value.csproj.GenerateResource.cache
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value.csproj.CoreCompileInputs.cache
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value.csproj.CopyComplete
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value.exe
+D:\document\KinhTeCongNghePM\BTL\Code\Bayesian Task Value\obj\Release\Bayesian Task Value.pdb
