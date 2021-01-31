@@ -116,11 +116,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Attribute.cs" />
     <Compile Include="Resource.cs" />
     <Compile Include="RisksNet.cs" />
     <Compile Include="ValueNet.cs" />
-    <Compile Include="NodeValue.cs" />
     <Compile Include="Project.cs" />
     <Compile Include="ResultDlg.xaml.cs">
       <DependentUpon>ResultDlg.xaml</DependentUpon>

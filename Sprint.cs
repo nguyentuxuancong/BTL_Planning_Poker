@@ -21,14 +21,6 @@ namespace Bayesian_Task_Value
         public int  Speed { get; set; } 
 
         public List<Task> Items { get; set; }
-
-        public Sprint(int id, String name)
-        {
-            this.Items = new List<Task>();
-            this.Deadline = 0;
-            this.Id = id;
-            this.Name = name;
-        }
         public void AddTask(Task item)
         {
             this.Items.Add(item);
