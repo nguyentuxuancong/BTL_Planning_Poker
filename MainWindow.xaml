@@ -1,0 +1,27 @@
+﻿<Window x:Class="Bayesian_Task_Value.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bayesian_Task_Value"
+        mc:Ignorable="d"
+        Title="Task Value Caculator" Height="300" Width="600">
+    <Grid>
+        <Label Content="Project name:" Margin="50,30,450,200" Width="Auto" Height="Auto" Grid.Row="0"/>
+        <TextBox x:Name="tbProjectName" Margin="145,30,40,210" Grid.Row="0" Text="Project"/>
+        <Label Content="List task:" Margin="50,86,450,144" Width="Auto" Height="Auto"/>
+        <Button x:Name="btChooseDataPath" Width="Auto" Margin="492,86,40,154" Content="Choose" Click="btTaskLit_Click">
+            <Button.Background>
+                <SolidColorBrush Color="#FFE3E3E3"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btSubmit" Height="30" Width="150" Margin="200,190,200,30" Content="Submit" Click="btSubmit_Click"/>
+        <TextBox x:Name="tbDataPath" Margin="145,86,105,154" Grid.Row="0"/>
+        <Label Content="Resources:" Margin="50,136,450,94" Width="Auto" Height="Auto"/>
+        <Button x:Name="btChooseResource" Width="Auto" Margin="492,136,40,104" Content="Choose" Click="btResource_Click" Background="#FFE3E3E3"/>
+        <TextBox x:Name="tbResourcePath" Margin="145,136,105,104" Grid.Row="0"/>
+    </Grid>
+
+
+
+</Window>
